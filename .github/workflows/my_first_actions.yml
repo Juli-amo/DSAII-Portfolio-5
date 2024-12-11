@@ -35,4 +35,4 @@ jobs:
 
     - name: Test with pytest
       run: |
-        pytest 
+        pytest fairsharer/test_fairsharer.py
