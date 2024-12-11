@@ -1,5 +1,5 @@
 import pytest
-from fair_sharer import fair_sharer
+from fairsharer.fair_sharer import fair_sharer
 
 # @pytest.mark.parametrize("positive_input, positive_output",
 #                          [([200, 1000, 800, 10], [300, 800, 900, 10]),
